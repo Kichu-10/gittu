@@ -1,8 +1,10 @@
 <div align="center">
 
-# 🛡️ Malware Analysis & Exploit Dev Lab
+# 🛡️ Gittu — Malware Analysis & Exploit Dev Lab
 
 ### A growing collection of payloads, exploits, and malware analysis notes — written while learning, shared for other beginners in security research.
+
+**Author:** Kzykes — Ethical Hacker / Security Researcher
 
 [![Made for Education](https://img.shields.io/badge/Purpose-Education%20%26%20Research-blue?style=for-the-badge)](#)
 [![Ethical Use Only](https://img.shields.io/badge/Use-Ethical%20%26%20Authorized%20Only-red?style=for-the-badge)](#)
@@ -30,7 +32,7 @@
 
 ## 📖 About This Repo
 
-I started this repo back when I was a complete beginner in cybersecurity — learning how payloads work, how exploits are built, and how malware behaves by actually writing (bad, messy, beginner-level) code myself instead of just reading theory. I'm sharing it as-is because that early, rough code is often exactly what helps the *next* beginner understand a concept that a polished, advanced tool would hide behind abstraction.
+I'm Kzykes, and I started this repo back when I was a complete beginner in cybersecurity — learning how payloads work, how exploits are built, and how malware behaves by actually writing (bad, messy, beginner-level) code myself instead of just reading theory. I'm sharing it as-is because that early, rough code is often exactly what helps the *next* beginner understand a concept that a polished, advanced tool would hide behind abstraction.
 
 If you're starting out in:
 - Malware analysis
