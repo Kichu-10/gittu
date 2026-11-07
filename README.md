@@ -75,7 +75,7 @@ If you're starting out in:
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/yourusername/gittu.git
 cd your-repo-name
 
 # (Optional) set up a virtual environment for Python-based tools
